@@ -13,3 +13,4 @@ elseif(CMAKE_CXX_COMPILER_ID MATCHES "MSVC")
 endif()
 
 add_subdirectory(in-class-1)
+add_subdirectory(homework-1)
