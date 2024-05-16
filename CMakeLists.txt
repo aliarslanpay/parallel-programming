@@ -15,5 +15,6 @@ add_subdirectory(in-class-1)
 add_subdirectory(homework-1)
 add_subdirectory(in-class-2)
 add_subdirectory(homework-2)
+add_subdirectory(in-class-3)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
